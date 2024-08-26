@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://pksvnkguucn0"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Window" type="Window" parent="."]
+position = Vector2i(0, 36)
